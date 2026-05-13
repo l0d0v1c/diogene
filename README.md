@@ -2,7 +2,7 @@
 
 Traduction française et commentaire par pseudoLuc (*10.52497/jitipee.v9i2.381*) des 1051 témoignages du corpus cynique antique, à partir du *Socraticorum Reliquiae* de Giannantoni, vol. II.
 
-Citation: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20162323.svg)](https://doi.org/10.5281/zenodo.20162323)
+Citation: [![DOI](assets/zenodo-badge.svg)](https://doi.org/10.5281/zenodo.20162323)
 
 ## Sommaire
 
